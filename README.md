@@ -1,4 +1,4 @@
-- I like to build stuff here... and eat sushi 🍣
+- Thanks for coming by! 👋
 - https://www.vladwilson.com/
 
 <!---
