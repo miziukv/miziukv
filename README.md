@@ -1,5 +1,5 @@
 - I like to build stuff here... and eat sushi 🍣
-- https://www.linkedin.com/in/vlad-wilson/ 
+- https://www.vladwilson.com/
 
 <!---
 miziukv/miziukv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
